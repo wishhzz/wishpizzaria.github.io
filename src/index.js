@@ -116,7 +116,6 @@ function Menu() {
 
   const handleSearchClick = () => {
       console.log("Search button clicked!");
-      // You could trigger an action here, though the search is already reactive
   };
 
   return (
